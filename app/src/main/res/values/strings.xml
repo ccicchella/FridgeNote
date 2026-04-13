@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FridgeNote</string>
+    <string name="welcome_message">Welcome to FridgeNote</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="photo_required">Photo Required</string>
+    <string name="history">History</string>
+    <string name="photo_required_to_complete">Photo Required to Complete</string>
+    <string name="Urgency">Urgency</string>
+    <string name="High">High</string>
+    <string name="Medium">Medium</string>
+    <string name="Low">Low</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_name">Task Name</string>
+    <string name="point_value">Point Value</string>
+    <string name="save_task">Save Task</string>
+    <string name="create_account">Create Account</string>
+</resources>

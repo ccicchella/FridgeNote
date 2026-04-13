@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647637387718",
+    "project_id": "fridgenote-122df",
+    "storage_bucket": "fridgenote-122df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647637387718:android:c394049f3578c6ba394ac7",
+        "android_client_info": {
+          "package_name": "our.cse476.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "REVOKED"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
